@@ -101,6 +101,6 @@ _Don't Forget To Give Star To My Repo_`
 			await removeFile("temp/" + id);
 		}
 	}
-	return await WASI_MD_QR_CODE()
+	return await EMMY_WHITE_QR_CODE()
 });
 module.exports = router
